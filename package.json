@@ -9,6 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "highcharts": "^8.1.2",
+    "highcharts-more": "^0.1.7",
+    "highcharts-solid-gauge": "^0.1.7",
+    "jscharting": "^2.9.0-9",
+    "jscharting-vue": "^1.1.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
